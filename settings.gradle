@@ -1,0 +1,1 @@
+include ':app', ':hello-annotation', ':hello-compiler'
